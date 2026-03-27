@@ -5,7 +5,7 @@ I build web applications, from microservices to side projects I ship end-to-end.
 
 ---
 
-## 🔧 What I work with
+## 🔧 Tech Stack
 
 **Backend**  
 ![Java](https://img.shields.io/badge/Java_17-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
