@@ -23,27 +23,3 @@ I build web applications, from microservices to side projects I ship end-to-end.
 ![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-
----
-
-## 🚀 Projects
-
-### [RankedRecords](https://rankedrecords.com) — Fitness performance tracking platform
-A full-featured social platform where fitness enthusiasts track progress, share achievements, and engage with a community. Built and shipped solo, fully in production.
-
-- **Frontend:** Next.js · React · TypeScript · Tailwind CSS · HeroUI
-- **Backend:** Spring Boot · Spring Security (JWT) · JPA/Hibernate · PostgreSQL
-- **Infra:** Docker · AWS S3 · Google Cloud Run · Vercel · Cloudflare
-
-### [MCRankdle](https://mcrankdle.com) — Rank-guessing game
-A daily game where users guess the rank of other players. Lightweight monolith, shipped and running.
-
-- **Stack:** Spring Boot · Vaadin/Hilla + React · PostgreSQL · OAuth2 (Google & Twitch)
-- **Infra:** Docker · Google Cloud Run · Cloudflare
-
----
-
-
-## 📫 Get in touch
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-lupo)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lupo.alessandro.03@gmail.com)
